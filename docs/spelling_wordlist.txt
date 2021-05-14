@@ -1,0 +1,12 @@
+submodules
+jira
+submodule
+init
+devstack
+efs
+repo
+gitignore
+bitbucket
+url
+Bitbucket
+py
